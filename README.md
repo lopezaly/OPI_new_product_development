@@ -4,7 +4,7 @@ This project explores the hypothetical new product development for a nail indust
 
 This project was completed in collaboration with Aishwarya Suhas Bakre, Olimpia Mkrtchyan, Rosie Marcial, and Yishuang Tian.
 
-![concept-1](https://github.com/lopezaly/OPI_new_product_development/blob/main/1.png)
+![concept-3](https://github.com/lopezaly/OPI_new_product_development/blob/main/3.png)
 
 
 
