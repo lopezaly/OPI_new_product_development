@@ -15,7 +15,7 @@ The NPD team identifies Odorless Gel Polish as the strongest concept that would 
 
 This project was completed in collaboration with Aishwarya Suhas Bakre, Olimpia Mkrtchyan, Rosie Marcial, and Yishuang Tian.
 
-![OPI]([https://github.com/lopezaly/OPI_new_product_development/blob/main/3.png](https://images.unsplash.com/photo-1599948128020-9a44505b0d1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
+![OPI](https://images.unsplash.com/photo-1599948128020-9a44505b0d1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
 
 ### Business Problem 
 OPI is seeking to expand their product portfolio as a means to maintain their status as a market leader in the nail industry. The product should reflect the brand's standard for excellence, be environmentally conscious, and have an ROI of greater than 30%.
