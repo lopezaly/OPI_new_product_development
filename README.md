@@ -11,6 +11,8 @@ This project explores the hypothetical new product development for a nail indust
 - Development and Strategy Soundness Evaluation
 - Recommendations
 
+The NPD team identifies Odorless Gel Polish as the strongest concept that would support the company's forecasted profits for 2022 is $9 million, and for 2023 the number is $21 million.
+
 This project was completed in collaboration with Aishwarya Suhas Bakre, Olimpia Mkrtchyan, Rosie Marcial, and Yishuang Tian.
 
 ![concept-3](https://github.com/lopezaly/OPI_new_product_development/blob/main/3.png)
@@ -25,3 +27,8 @@ Through market, supply chain, customer, and concept analyses, our team was able 
 - Multiple data-driven metrics are essential to ensure product viability and success
 - The new product development process can be optimized via agile methodology to account for changing industry and consumer needs that emerge from ongoing analyses
 - Sometimes the concepts you least expect to succeed, end up having the greatest implications. Check your biases and your data!
+
+### Files
+[New Product Development Report](https://github.com/lopezaly/OPI_new_product_development/blob/main/Final%20NPD%20Group%20Project%20-%20OPI.pdf)
+[Concept Testing Survey Analysis (n=157)](https://github.com/lopezaly/OPI_new_product_development/blob/main/NPD%20-%20Survey%20Analysis.ipynb)
+[MS Project Implementation Plan](https://github.com/lopezaly/OPI_new_product_development/blob/main/NPD-OPI-odorless-gel.mpp)
