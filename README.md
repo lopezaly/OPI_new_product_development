@@ -23,6 +23,8 @@ OPI is seeking to expand their product portfolio as a means to maintain their st
 ### Approach 
 Through market, supply chain, customer, and concept analyses, our team was able to generate, test, and identify a single product for consideration for production: Odorless gel polish. Financial analyses were completed for the selected concept to identify its viability to reach the ROI goals for the company. A complete implmentation plan is also provided to guide next steps in the product development cycle.
 
+![Gantt Chart](https://github.com/lopezaly/OPI_new_product_development/blob/main/gantt.PNG)
+
 ### Takeaways
 - Multiple data-driven metrics are essential to ensure product viability and success
 - The new product development process can be optimized via agile methodology to account for changing industry and consumer needs that emerge from ongoing analyses
